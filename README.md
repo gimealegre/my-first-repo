@@ -1,29 +1,22 @@
-# This is a large heading
+# Gimena
 
-## This is a smaller heading
+### I live in the United States.
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+### Reading
 
-- This is
-- an unordered
-- list
+I'm currently reading:
 
-1. This is
-2. an ordered
-3. list
+- *The Sixth Extinction* by Elizabeth
+- *The Sing of the Dodo* by David
+- *CareWork* by Unknown
+### Food
 
-Here is `some code` in the middle of a sentence.
+My prefered dishes are:
 
-```
-This is
-a block
-of code
-```
+1. Empanadas in Uruguay
+2. Tacos in Mexico
+3. Chocalate in Brazil
 
-Here is how you make [a link](https://www.wikipedia.org/).
+### Contact
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
+The best way to contact is on email.
